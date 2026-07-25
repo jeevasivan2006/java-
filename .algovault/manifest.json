@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T05:29:15.842Z",
+  "lastUpdated": "2026-07-25T05:30:21.609Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -39,6 +39,12 @@
               "syncedAt": 1784957355842,
               "runtime": "4 ms",
               "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            },
+            "12131110987654231        system.out.print(set);        list<integer> list=new arraylist<>(set);        }             }                }                    break;                    set.add(nums1[i]);                if( nums1[i]==nums2[j] && set.size()==nums2.length){            for(int j=0;j<nums2.length;j++){        for(int i=0;i<nums1.length;i++){    public int[] intersection(int[] nums1, int[] nums2) {        set<integer> set=new hashset<>();class solution {": {
+              "syncedAt": 1784957421609,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
             }
           }
