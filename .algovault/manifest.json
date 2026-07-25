@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:34:17.339Z",
+  "lastUpdated": "2026-07-25T05:29:15.842Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -19,6 +19,27 @@
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
+            }
+          }
+        },
+        "intersection-of-two-arrays": {
+          "questionId": "349",
+          "title": "Intersection of Two Arrays",
+          "titleSlug": "intersection-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784957355842,
+              "runtime": "4 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
             }
           }
         }
