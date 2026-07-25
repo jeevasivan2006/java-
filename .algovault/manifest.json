@@ -1,0 +1,29 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-07-25T04:34:17.339Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "maximum-product-of-two-digits": {
+          "questionId": "3536",
+          "title": "Maximum Product of Two Digits",
+          "titleSlug": "maximum-product-of-two-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784954057339,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
+            }
+          }
+        }
+      },
+      "username": "jeevasivan"
+    }
+  }
+}
