@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T05:42:21.897Z",
+  "lastUpdated": "2026-07-29T06:03:48.925Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -52,6 +52,27 @@
               "runtime": "0 ms",
               "memory": "44.76 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            }
+          }
+        },
+        "smallest-palindromic-rearrangement-ii": {
+          "questionId": "3518",
+          "title": "Smallest Palindromic Rearrangement II",
+          "titleSlug": "smallest-palindromic-rearrangement-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String",
+            "Combinatorics",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785305028925,
+              "runtime": "6 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Hash Table/Smallest Palindromic Rearrangement II/"
             }
           }
         }
