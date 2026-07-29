@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-29T06:03:48.925Z",
+  "lastUpdated": "2026-07-29T08:54:43.108Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -73,6 +73,24 @@
               "runtime": "6 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Hash Table/Smallest Palindromic Rearrangement II/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785315283108,
+              "runtime": "2 ms",
+              "memory": "72.4 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
             }
           }
         }
