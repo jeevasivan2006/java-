@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-29T08:54:43.108Z",
+  "lastUpdated": "2026-07-29T08:55:59.309Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -90,6 +90,12 @@
               "syncedAt": 1785315283108,
               "runtime": "2 ms",
               "memory": "72.4 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            },
+            "12345678910111315121416class solution {    public int[] productexceptself(int[] nums) {        int[] num=new int[nums.length];        int pro=1;        for(int i=0;i<nums.length;i++){            num[i]=pro;            pro*=nums[i];        }        int res=1;        for(int i=nums.length-1;i>=0;i--){            num[i]*=res;        }    }            res*=nums[i];        return num;}": {
+              "syncedAt": 1785315359309,
+              "runtime": "0 ms",
+              "memory": "72.42 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
             }
           }
