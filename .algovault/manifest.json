@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-30T04:53:14.489Z",
+  "lastUpdated": "2026-07-30T04:55:21.532Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -134,6 +134,12 @@
               "syncedAt": 1785387194489,
               "runtime": "32 ms",
               "memory": "95.7 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
+            },
+            "1234567891011121314151617181920class solution {    public int longestconsecutive(int[] nums) {        set<integer> numset = new hashset<>();        for (int num : nums) {            numset.add(num);        }        int longest = 0;        for (int num : numset) {            if (!numset.contains(num - 1)) {                int length = 1;                while (numset.contains(num + length)) {                    length++;                }                longest = math.max(longest, length);            }        }        return longest;    }}": {
+              "syncedAt": 1785387321532,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
             }
           }
