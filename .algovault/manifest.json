@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-29T08:55:59.309Z",
+  "lastUpdated": "2026-07-30T04:33:48.185Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -97,6 +97,25 @@
               "runtime": "0 ms",
               "memory": "72.42 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "valid-sudoku": {
+          "questionId": "36",
+          "title": "Valid Sudoku",
+          "titleSlug": "valid-sudoku",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785386028185,
+              "runtime": "3 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Valid Sudoku/"
             }
           }
         }
