@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-30T04:33:48.185Z",
+  "lastUpdated": "2026-07-30T04:53:14.489Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -116,6 +116,25 @@
               "runtime": "3 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Valid Sudoku/"
+            }
+          }
+        },
+        "longest-consecutive-sequence": {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Union-Find"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785387194489,
+              "runtime": "32 ms",
+              "memory": "95.7 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
             }
           }
         }
