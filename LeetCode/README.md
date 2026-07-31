@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1785487704447" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1785487784753" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -54,7 +54,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
+| 316 | [Remove Duplicate Letters](./General/Remove%20Duplicate%20Letters/) | Medium |
 
 </details>
 

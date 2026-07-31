@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T08:48:24.446Z",
+  "lastUpdated": "2026-07-31T08:49:44.697Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -198,6 +198,12 @@
               "runtime": "2 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/String/Remove Duplicate Letters/"
+            },
+            "567891011121314151617184321              for (char c : s.tochararray()) {            freq[c - 'a']++;        }        stack<character> stack = new stack<>();        for (char c : s.tochararray()) {            freq[c - 'a']--;             if (instack[c - 'a']) {                continue;            }            while (!stack.isempty() && stack.peek() > c && freq[stack.peek() - 'a'] > 0) {                instack[stack.pop() - 'a'] = false;        boolean instack[]=new boolean[26];        int freq[]=new int[26];    public string removeduplicateletters(string s) {class solution {": {
+              "syncedAt": 1785487784697,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/General/Remove Duplicate Letters/"
             }
           }
         }
