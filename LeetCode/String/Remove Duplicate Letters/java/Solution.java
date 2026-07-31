@@ -1,30 +1,12 @@
-class Solution {
+public class Solution {
     public String removeDuplicateLetters(String s) {
-        int freq[]=new int[26];
-        boolean inStack[]=new boolean[26];
-      
-        for (char c : s.toCharArray()) {
-            freq[c - 'a']++;
+        int[] cnt = new int[26];
+        int pos = 0; // the position for the smallest s[i]
+        for (int i = 0; i < s.length(); i++) cnt[s.charAt(i) - 'a']++;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) < s.charAt(pos)) pos = i;
+            if (--cnt[s.charAt(i) - 'a'] == 0) break;
         }
-
-        Stack<Character> stack = new Stack<>();
-
-        for (char c : s.toCharArray()) {
-            freq[c - 'a']--; 
-            if (inStack[c - 'a']) {
-                continue;
-            }
-            while (!stack.isEmpty() && stack.peek() > c && freq[stack.peek() - 'a'] > 0) {
-                inStack[stack.pop() - 'a'] = false;
-            }
-            stack.push(c);
-            inStack[c - 'a'] = true;
-        }
-        StringBuilder result = new StringBuilder();
-        for (char c : stack) {
-            result.append(c);
-        }
-        return result.toString();
+        return s.length() == 0 ? "" : s.charAt(pos) + removeDuplicateLetters(s.substring(pos + 1).replaceAll("" + s.charAt(pos), ""));
     }
-    
 }
