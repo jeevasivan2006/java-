@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T08:47:44.686Z",
+  "lastUpdated": "2026-07-31T08:47:54.046Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -178,12 +178,6 @@
               "runtime": "0 ms",
               "memory": "77.26 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
-            },
-            "1c": {
-              "syncedAt": 1785487664686,
-              "runtime": "6 ms",
-              "memory": "77.24 MB",
-              "githubPath": "LeetCode/Array/Container With Most Water/"
             }
           }
         },
@@ -200,9 +194,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785487598833,
+              "syncedAt": 1785487674046,
               "runtime": "2 ms",
-              "memory": "42.3 MB",
+              "memory": "42.5 MB",
               "githubPath": "LeetCode/String/Remove Duplicate Letters/"
             }
           }
