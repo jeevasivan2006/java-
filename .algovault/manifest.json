@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T08:30:12.961Z",
+  "lastUpdated": "2026-07-31T08:46:38.834Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -178,6 +178,26 @@
               "runtime": "0 ms",
               "memory": "77.26 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "remove-duplicate-letters": {
+          "questionId": "316",
+          "title": "Remove Duplicate Letters",
+          "titleSlug": "remove-duplicate-letters",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785487598833,
+              "runtime": "2 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/String/Remove Duplicate Letters/"
             }
           }
         }
