@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T08:30:09.535Z",
+  "lastUpdated": "2026-07-31T08:30:12.961Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -173,10 +173,10 @@
             "Greedy"
           ],
           "solutions": {
-            "java": {
-              "syncedAt": 1785486609535,
-              "runtime": "6 ms",
-              "memory": "77.3 MB",
+            "12345678910class solution {    public int maxarea(int[] heights) {        int res = 0;        for (int i = 0; i < heights.length-1; i++) {            for (int j = i + 1; j < heights.length; j++) {                res = math.max(res, math.min(heights[i], heights[j]) * (j - i));            }        }        return res;    }": {
+              "syncedAt": 1785486612961,
+              "runtime": "0 ms",
+              "memory": "77.26 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
             }
           }
