@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-30T10:13:42.404Z",
+  "lastUpdated": "2026-07-31T08:30:09.535Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -159,6 +159,25 @@
               "runtime": "45 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785486609535,
+              "runtime": "6 ms",
+              "memory": "77.3 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
             }
           }
         }
