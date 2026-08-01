@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T04:01:43.162Z",
+  "lastUpdated": "2026-08-01T04:03:25.092Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -261,6 +261,23 @@
               "runtime": "1 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Insert Interval/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785557005092,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
             }
           }
         }
