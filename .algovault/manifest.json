@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T08:51:01.252Z",
+  "lastUpdated": "2026-08-01T03:53:23.629Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -204,6 +204,27 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/General/Remove Duplicate Letters/"
+            }
+          }
+        },
+        "predict-the-winner": {
+          "questionId": "486",
+          "title": "Predict the Winner",
+          "titleSlug": "predict-the-winner",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Recursion",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785556403629,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/Predict the Winner/"
             }
           }
         }
