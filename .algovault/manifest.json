@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T03:54:02.499Z",
+  "lastUpdated": "2026-08-01T03:54:40.536Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -228,21 +228,22 @@
             }
           }
         },
-        "combination-sum-ii": {
-          "questionId": "40",
-          "title": "Combination Sum II",
-          "titleSlug": "combination-sum-ii",
-          "difficulty": "Medium",
+        "regular-expression-matching": {
+          "questionId": "10",
+          "title": "Regular Expression Matching",
+          "titleSlug": "regular-expression-matching",
+          "difficulty": "Hard",
           "tags": [
-            "Array",
-            "Backtracking"
+            "String",
+            "Dynamic Programming",
+            "Recursion"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785556442499,
-              "runtime": "6 ms",
-              "memory": "45.5 MB",
-              "githubPath": "LeetCode/Array/Combination Sum II/"
+              "syncedAt": 1785556480536,
+              "runtime": "2 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/String/Regular Expression Matching/"
             }
           }
         }
