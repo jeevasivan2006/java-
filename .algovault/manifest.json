@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T04:03:25.092Z",
+  "lastUpdated": "2026-08-01T04:08:41.553Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -278,6 +278,24 @@
               "runtime": "1 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "sqrtx": {
+          "questionId": "69",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785557321553,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
             }
           }
         }
