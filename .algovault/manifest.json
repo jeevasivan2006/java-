@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T04:01:15.865Z",
+  "lastUpdated": "2026-08-01T04:01:43.162Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -257,9 +257,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785556875865,
+              "syncedAt": 1785556903162,
               "runtime": "1 ms",
-              "memory": "47.1 MB",
+              "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Insert Interval/"
             }
           }
