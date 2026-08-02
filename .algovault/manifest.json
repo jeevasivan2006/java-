@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T07:10:40.146Z",
+  "lastUpdated": "2026-08-02T07:18:24.725Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -336,9 +336,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785654640146,
-              "runtime": "1 ms",
-              "memory": "43 MB",
+              "syncedAt": 1785655104725,
+              "runtime": "2 ms",
+              "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
             }
           }
