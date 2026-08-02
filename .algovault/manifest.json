@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T08:48:28.923Z",
+  "lastUpdated": "2026-08-02T08:49:40.167Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -371,6 +371,26 @@
               "runtime": "0 ms",
               "memory": "47.90 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785660580167,
+              "runtime": "1 ms",
+              "memory": "69.4 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
             }
           }
         }
