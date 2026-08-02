@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T04:08:41.553Z",
+  "lastUpdated": "2026-08-02T06:41:18.129Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -296,6 +296,26 @@
               "runtime": "1 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
+            }
+          }
+        },
+        "stone-game": {
+          "questionId": "877",
+          "title": "Stone Game",
+          "titleSlug": "stone-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785652878129,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Stone Game/"
             }
           }
         }
