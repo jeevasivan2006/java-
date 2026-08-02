@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T07:05:42.996Z",
+  "lastUpdated": "2026-08-02T07:08:20.469Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -315,6 +315,12 @@
               "syncedAt": 1785654342996,
               "runtime": "0 ms",
               "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Stone Game/"
+            },
+            "123456789101112class solution {    public boolean stonegame(int[] piles) {        boolean found=false;        for(int i=1;i<piles.length;i++){            if(piles[i]==piles[i-1]){                found=true;                break;            }        }        if(found=true) return true;        else return false;    }": {
+              "syncedAt": 1785654500469,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Stone Game/"
             }
           }
