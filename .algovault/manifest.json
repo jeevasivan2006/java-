@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T08:46:08.016Z",
+  "lastUpdated": "2026-08-02T08:48:28.923Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -364,6 +364,12 @@
               "syncedAt": 1785659941144,
               "runtime": "0 ms",
               "memory": "N/A",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            },
+            "891011121314715161718192021222324252627282930        return set.size();    }}*/class solution{    public int lengthoflongestsubstring(string s)     {        }        set<character> hash=new hashset<>();        int left=0;        int max=0;        for(int i=0;i<s.length();i++)        {            while(hash.contains(s.charat(i)))            {                hash.remove(s.charat(left));                left++;            }            hash.add(s.charat(i));            max=math.max(i-left+1,max);        }        return max;    }}": {
+              "syncedAt": 1785660508923,
+              "runtime": "0 ms",
+              "memory": "47.90 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
