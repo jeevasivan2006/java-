@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T07:18:24.725Z",
+  "lastUpdated": "2026-08-02T08:36:45.915Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -340,6 +340,25 @@
               "runtime": "2 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785659805915,
+              "runtime": "69 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
         }
