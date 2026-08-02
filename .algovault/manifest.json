@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T09:35:17.909Z",
+  "lastUpdated": "2026-08-02T09:51:25.361Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -416,6 +416,26 @@
               "runtime": "1460 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
+            }
+          }
+        },
+        "permutation-in-string": {
+          "questionId": "567",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785664285361,
+              "runtime": "1203 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Hash Table/Permutation in String/"
             }
           }
         }
