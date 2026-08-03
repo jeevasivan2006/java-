@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:24:21.321Z",
+  "lastUpdated": "2026-08-03T06:27:24.529Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -481,6 +481,12 @@
               "syncedAt": 1785738092377,
               "runtime": "4 ms",
               "memory": "52.1 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            },
+            "234567891011121314151617181    public int longestones(int[] nums, int k) {        int left = 0, maxlength = 0, zerocount = 0;        for (int right = 0; right < nums.length; ++right) {            if (nums[right] == 0) {                zerocount++;            }            while (zerocount > k) {                if (nums[left] == 0) {                    zerocount--;                }                left++;            }            maxlength = math.max(maxlength, right - left + 1);        }        return maxlength;    }}class solution {": {
+              "syncedAt": 1785738444529,
+              "runtime": "0 ms",
+              "memory": "52.08 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
             }
           }
