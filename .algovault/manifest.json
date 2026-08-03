@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T09:51:25.361Z",
+  "lastUpdated": "2026-08-03T04:52:09.455Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -436,6 +436,26 @@
               "runtime": "1203 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
+            }
+          }
+        },
+        "subarray-product-less-than-k": {
+          "questionId": "713",
+          "title": "Subarray Product Less Than K",
+          "titleSlug": "subarray-product-less-than-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785732729455,
+              "runtime": "2 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
             }
           }
         }
