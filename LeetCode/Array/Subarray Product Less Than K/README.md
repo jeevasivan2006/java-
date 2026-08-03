@@ -1,39 +1,54 @@
 # 713. Subarray Product Less Than K
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/subarray-product-less-than-k/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>Given an array of integers <code>nums</code> and an integer <code>k</code>, return <em>the number of contiguous subarrays where the product of all the elements in the subarray is strictly less than </em><code>k</code>.</p>
+Given an array of integers nums and an integer k, return the number of contiguous subarrays where the product of all the elements in the subarray is strictly less than k.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> nums = [10,5,2,6], k = 100
-<strong>Output:</strong> 8
-<strong>Explanation:</strong> The 8 subarrays that have product less than 100 are:
+Input: nums = [10,5,2,6], k = 100
+Output: 8
+Explanation: The 8 subarrays that have product less than 100 are:
 [10], [5], [2], [6], [10, 5], [5, 2], [2, 6], [5, 2, 6]
 Note that [10, 5, 2] is not included as the product of 100 is not strictly less than k.
-</pre>
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> nums = [1,2,3], k = 0
-<strong>Output:</strong> 0
-</pre>
+Example 2:
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Input: nums = [1,2,3], k = 0
+Output: 0
 
-<ul>
-	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 1000</code></li>
-	<li><code>0 &lt;= k &lt;= 10<sup>6</sup></code></li>
-</ul>
 
+ 
+Constraints:
+
+
+	1 <= nums.length <= 3 * 104
+	1 <= nums[i] <= 1000
+	0 <= k <= 106
+
+## Examples
+
+```
+Input: nums = [10,5,2,6], k = 100
+Output: 8
+Explanation: The 8 subarrays that have product less than 100 are:
+[10], [5], [2], [6], [10, 5], [5, 2], [2, 6], [5, 2, 6]
+Note that [10, 5, 2] is not included as the product of 100 is not strictly less than k.
+
+Input: nums = [1,2,3], k = 0
+Output: 0
+```
+
+## Constraints
+
+- 1 <= nums.length <= 3 * 104
+- 1 <= nums[i] <= 1000
+- 0 <= k <= 106
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

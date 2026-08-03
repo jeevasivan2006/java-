@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T04:52:09.455Z",
+  "lastUpdated": "2026-08-03T04:52:46.452Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -443,7 +443,7 @@
           "questionId": "713",
           "title": "Subarray Product Less Than K",
           "titleSlug": "subarray-product-less-than-k",
-          "difficulty": "Medium",
+          "difficulty": "Easy",
           "tags": [
             "Array",
             "Binary Search",
@@ -451,10 +451,10 @@
             "Prefix Sum"
           ],
           "solutions": {
-            "java": {
-              "syncedAt": 1785732729455,
-              "runtime": "2 ms",
-              "memory": "48.9 MB",
+            "89107111265413141516312            while (product >= k) {                product /= nums[left++];            }            product *= nums[right];            totalcount += right - left + 1;          }        for (int left = 0, right = 0; right < nums.length; right++) {        int product = 1;        int totalcount = 0;        return totalcount;    }}        if (k <= 1) return 0;class solution {    public int numsubarrayproductlessthank(int[] nums, int k) {": {
+              "syncedAt": 1785732766452,
+              "runtime": "0 ms",
+              "memory": "48.88 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
             }
           }
