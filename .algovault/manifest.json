@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:21:32.377Z",
+  "lastUpdated": "2026-08-03T06:24:21.321Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -482,6 +482,26 @@
               "runtime": "4 ms",
               "memory": "52.1 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        },
+        "stone-game-iii": {
+          "questionId": "1406",
+          "title": "Stone Game III",
+          "titleSlug": "stone-game-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738261321,
+              "runtime": "6 ms",
+              "memory": "85.5 MB",
+              "githubPath": "LeetCode/Array/Stone Game III/"
             }
           }
         }
