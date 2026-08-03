@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T04:52:46.452Z",
+  "lastUpdated": "2026-08-03T05:40:40.896Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -455,6 +455,12 @@
               "syncedAt": 1785732766452,
               "runtime": "0 ms",
               "memory": "48.88 MB",
+              "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
+            },
+            "java": {
+              "syncedAt": 1785735640896,
+              "runtime": "391 ms",
+              "memory": "49 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
             }
           }
