@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T11:44:54.279Z",
+  "lastUpdated": "2026-08-05T11:46:03.179Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -387,9 +387,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785930294279,
+              "syncedAt": 1785930363179,
               "runtime": "1 ms",
-              "memory": "69.3 MB",
+              "memory": "69 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
             },
             "1234567891011121314class solution {    public int minsubarraylen(int target, int[] nums) {        int left = 0, right = 0, sumofcurrentwindow = 0;        int res = integer.max_value;        for(right = 0; right < nums.length; right++) {            sumofcurrentwindow += nums[right];            while (sumofcurrentwindow >= target) {                res = math.min(res, right - left + 1);                sumofcurrentwindow -= nums[left++];            }        }        return res == integer.max_value ? 0 : res;    }}": {
