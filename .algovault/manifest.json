@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T11:44:29.715Z",
+  "lastUpdated": "2026-08-05T11:44:54.279Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -387,9 +387,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785660580167,
+              "syncedAt": 1785930294279,
               "runtime": "1 ms",
-              "memory": "69.4 MB",
+              "memory": "69.3 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
             },
             "1234567891011121314class solution {    public int minsubarraylen(int target, int[] nums) {        int left = 0, right = 0, sumofcurrentwindow = 0;        int res = integer.max_value;        for(right = 0; right < nums.length; right++) {            sumofcurrentwindow += nums[right];            while (sumofcurrentwindow >= target) {                res = math.min(res, right - left + 1);                sumofcurrentwindow -= nums[left++];            }        }        return res == integer.max_value ? 0 : res;    }}": {
@@ -527,26 +527,6 @@
               "runtime": "46 ms",
               "memory": "280.2 MB",
               "githubPath": "LeetCode/Depth-First Search/Remove Methods From Project/"
-            }
-          }
-        },
-        "linked-list-cycle": {
-          "questionId": "141",
-          "title": "Linked List Cycle",
-          "titleSlug": "linked-list-cycle",
-          "difficulty": "Easy",
-          "tags": [
-            "Hash Table",
-            "Linked List",
-            "Two Pointers",
-            "Floyd's Cycle Finding Algorithm"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1785930269715,
-              "runtime": "0 ms",
-              "memory": "46.7 MB",
-              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
             }
           }
         }
