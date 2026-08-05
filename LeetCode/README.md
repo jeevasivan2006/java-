@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1785738444581" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1785929980680" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -29,6 +29,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1406 | [Stone Game III](./Array/Stone%20Game%20III/) | Hard |
+
+</details>
+
+
+### Depth-First Search
+<details>
+<summary>Click to expand Depth-First Search problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 3310 | [Remove Methods From Project](./Depth-First%20Search/Remove%20Methods%20From%20Project/) | Medium |
 
 </details>
 

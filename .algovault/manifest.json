@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:27:24.529Z",
+  "lastUpdated": "2026-08-05T11:39:40.664Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -508,6 +508,25 @@
               "runtime": "6 ms",
               "memory": "85.5 MB",
               "githubPath": "LeetCode/Array/Stone Game III/"
+            }
+          }
+        },
+        "remove-methods-from-project": {
+          "questionId": "3310",
+          "title": "Remove Methods From Project",
+          "titleSlug": "remove-methods-from-project",
+          "difficulty": "Medium",
+          "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785929980664,
+              "runtime": "46 ms",
+              "memory": "280.2 MB",
+              "githubPath": "LeetCode/Depth-First Search/Remove Methods From Project/"
             }
           }
         }
