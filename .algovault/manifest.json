@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T11:39:40.664Z",
+  "lastUpdated": "2026-08-05T11:44:02.117Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -527,6 +527,26 @@
               "runtime": "46 ms",
               "memory": "280.2 MB",
               "githubPath": "LeetCode/Depth-First Search/Remove Methods From Project/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785930242117,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
             }
           }
         }
