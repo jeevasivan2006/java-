@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1786161384267" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1786161425113" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -66,6 +66,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 3014 | [Minimum Number of Pushes to Type Word I](./Math/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) | Easy |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
 
 </details>
@@ -80,17 +81,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
-
-</details>
-
-
-### Two Pointers
-<details>
-<summary>Click to expand Two Pointers problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 3302 | [Find the Lexicographically Smallest Valid Sequence](./Two%20Pointers/Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence/) | Medium |
 
 </details>
 
