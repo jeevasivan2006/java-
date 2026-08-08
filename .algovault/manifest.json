@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T03:57:05.057Z",
+  "lastUpdated": "2026-08-08T04:04:37.692Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -546,6 +546,26 @@
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Math/Minimum Number of Pushes to Type Word I/"
+            }
+          }
+        },
+        "generate-parentheses": {
+          "questionId": "22",
+          "title": "Generate Parentheses",
+          "titleSlug": "generate-parentheses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786161877692,
+              "runtime": "3 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/String/Generate Parentheses/"
             }
           }
         }
