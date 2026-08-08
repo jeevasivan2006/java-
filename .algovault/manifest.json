@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T11:46:03.179Z",
+  "lastUpdated": "2026-08-08T03:56:24.220Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -527,6 +527,26 @@
               "runtime": "46 ms",
               "memory": "280.2 MB",
               "githubPath": "LeetCode/Depth-First Search/Remove Methods From Project/"
+            }
+          }
+        },
+        "find-the-lexicographically-smallest-valid-sequence": {
+          "questionId": "3302",
+          "title": "Find the Lexicographically Smallest Valid Sequence",
+          "titleSlug": "find-the-lexicographically-smallest-valid-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786161384220,
+              "runtime": "224 ms",
+              "memory": "200.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Lexicographically Smallest Valid Sequence/"
             }
           }
         }
