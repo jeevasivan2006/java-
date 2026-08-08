@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1786161877741" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1786161917313" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
+| 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
@@ -79,7 +80,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
-| 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
 
