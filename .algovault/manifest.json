@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T04:05:17.310Z",
+  "lastUpdated": "2026-08-08T04:06:29.659Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -565,6 +565,25 @@
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786161989659,
+              "runtime": "2 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
             }
           }
         }
